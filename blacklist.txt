@@ -1340,7 +1340,7 @@ woocommerce-zoomifier ;; serious errors, js conflicts
 woosidebars ;; not maintained (By WooCommerce)
 woosidebars-sbm-converter ;; deprecated
 woothemes-updater ;; deprecated
-wordfence ;; bloated
+;wordfence ;; bloated
 wordfence-login-security ;; ss conflicts
 wordpress-extended-content-analysis-yoast ;; pointless, not maintained
 wordpress-faq-manager ;; serious errors, not maintained (by Andrew Norcross)
