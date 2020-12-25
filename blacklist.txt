@@ -243,7 +243,6 @@ akeebabackupwp ;; unsafe local archives
 all-404-redirect-to-homepage ;; spammy, better options exist
 all-in-one-redirection ;; excessive logging
 all-in-one-webmaster ;; pointless, better options exist
-all-in-one-wp-security-and-firewall ;; bloated
 all-social-fw-style-widget ;; not maintained
 allow-php-execute ;; php hacks
 alinks ;; deprecated, serious errors
